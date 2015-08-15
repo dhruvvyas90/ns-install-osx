@@ -12,8 +12,9 @@ Latest version of Xquartz. (It can be downloaded from this link : http://xquartz
 1. git clone https://github.com/dhruvvyas90/ns-install-osx.git
 2. cd ns-install-osx
 3. chmod +x install.sh && ./install.sh
+4. Restart terminal.
 
 It will take a while to download and compile the source. 
 Once done, try running ns or nam for running ns shell or nam.
 
-4. Restart terminal.
+
