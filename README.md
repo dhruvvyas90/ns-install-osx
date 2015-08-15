@@ -9,7 +9,7 @@ Latest version of Xquartz. (It can be downloaded from this link : http://xquartz
 
 #Installation steps :
 
-1. git clone https://github.com/dhruvvyas90/ns-install-osx/
+1. git clone https://github.com/dhruvvyas90/ns-install-osx.git
 2. cd ns-install-osx
 3. chmod +x install.sh && ./install.sh
 
