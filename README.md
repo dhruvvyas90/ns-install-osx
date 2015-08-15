@@ -1,13 +1,13 @@
 # ns-install-osx
-A bash script for installing ns2 on Mac OS X 10.8+
+#A bash script for installing ns2 on Mac OS X 10.8+
 
-Pre requisite.
+#Pre requisites.
 
 Latest version of Xcode.
 
 Latest version of Xquartz. (It can be downloaded from this link : http://xquartz.macosforge.org/landing/)
 
-Installation steps :
+#Installation steps :
 
 1. git clone https://github.com/dhruvvyas90/ns-install-osx/
 2. cd ns-install-osx
