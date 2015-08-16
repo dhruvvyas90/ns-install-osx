@@ -5,7 +5,7 @@
 
 Latest version of Xcode.
 
-Latest version of Xquartz. (It can be downloaded from this link : http://xquartz.macosforge.org/landing/)
+Latest version of Xquartz. (It can be downloaded from this link : http://xquartz.macosforge.org/landing/) You will have re-login to enable it.
 
 #Installation steps :
 
